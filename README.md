@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Manjarly
 - 👀 I’m interested in Competitive Programming and books
-- 🌱 Learning Java for Competitive Programming
+- 🌱 I learn and teach Java and C++ for Competitive Programming and Interviews
+- ▶️ [My YouTube Channel](https://www.youtube.com/channel/UCFWvSzqBXb3Zlmz67-ToLSg)
 
 <!---
 Manjarly/Manjarly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
