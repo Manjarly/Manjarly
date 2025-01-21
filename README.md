@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Manjarly
-- 👀 I’m interested in Competitive Programming and books
-- 🌱 I learn and teach Java and C++ for Competitive Programming and Interviews
+- 👀 Competetive Programming 💪🏻
+- 👀 Machine Learning 🤖
+- 👀 Books 📚
+- 🌱 I learn and teach Java and C++ for Competitive Programming
 - ▶️ [My YouTube Channel](https://www.youtube.com/channel/UCFWvSzqBXb3Zlmz67-ToLSg)
 
 <!---
