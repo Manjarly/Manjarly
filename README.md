@@ -3,7 +3,7 @@
 - 👀 Machine Learning 🤖
 - 👀 Books 📚
 - 🌱 I learn and teach Java and C++ for Competitive Programming
-- ▶️ [My YouTube Channel](https://www.youtube.com/channel/UCFWvSzqBXb3Zlmz67-ToLSg)
+- ▶️ [My YouTube Channel](https://www.youtube.com/@manjarly)
 
 <!---
 Manjarly/Manjarly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
