@@ -4,6 +4,7 @@
 - 📚 Books
 - ♟️ Chess
 - 🌱 I learn and teach Java and C++ for Competitive Programming
+- 🏃🏻 Running in the race of AI
 - ▶️ [My YouTube Channel](https://www.youtube.com/@manjarly)
 
 <!---
