@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Manjarly
-- 👀 Competetive Programming 💪🏻
-- 👀 Machine Learning 🤖
-- 👀 Books 📚
+- 🧑🏻‍💻 Competetive Programming
+- 🤖 Machine Learning
+- 📚 Books
+- ♟️ Chess
 - 🌱 I learn and teach Java and C++ for Competitive Programming
 - ▶️ [My YouTube Channel](https://www.youtube.com/@manjarly)
 
