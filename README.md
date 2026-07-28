@@ -1,11 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20there,%20I'm%20Amit%20Manjarly%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Researcher%20%7C%20Competitive%20Programmer%20%7C%20MS%20DSAE%20@%20ASU&descSize=18&descAlignY=62" width="100%" alt="Amit Manjarly"/>
-
-  <br/>
+  <h1>Hi there, I'm Amit Manjarly 👋</h1>
+  <p><b>AI & Machine Learning Researcher | Competitive Programmer | M.S. DSAE @ ASU</b></p>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+DSAE+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer+%26+CP+Instructor;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Amit Manjarly - Bio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+DSAE+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer+%26+CP+Instructor;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Amit Manjarly - Bio" />
   </a>
 
   <br/><br/>
@@ -122,8 +121,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=4&section=footer" width="100%" alt="Footer Line"/>
-  <br/>
   <i>"The best way to predict the future is to invent it."</i>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Manjarly&color=00c6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
