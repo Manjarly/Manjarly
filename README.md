@@ -1,27 +1,21 @@
-<!-- ========================================== -->
-<!--       AMIT MANJARLY GITHUB PROFILE README  -->
-<!-- ========================================== -->
 <div align="center">
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20there,%20I'm%20Amit%20Manjarly%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Researcher%20%7C%20Competitive%20Programmer%20%7C%20MS%20DSAE%20@%20ASU&descSize=18&descAlignY=62" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hi%20there,%20I'm%20Amit%20Manjarly%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Researcher%20%7C%20Competitive%20Programmer%20%7C%20MS%20DSAE%20@%20ASU&descSize=18&descAlignY=62" width="100%" alt="Amit Manjarly"/>
   <br/>
-  <!-- Dynamic Typing Subtitle -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+DSAE+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer+%26+CP+Instructor;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+DSAE+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer+%26+CP+Instructor;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Amit Manjarly - Bio" />
   </a>
   <br/><br/>
-  <!-- Social & Profile Badges -->
   <a href="https://www.linkedin.com/in/manjarly">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@manjarly">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:manjarly@asu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Manjarly">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 <br/>
