@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Amit Manjarly 👋</h1>
   <p><b>AI & Machine Learning Researcher | Competitive Programmer | M.S. DSAE @ ASU</b></p>
 
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+DSAE+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer+%26+CP+Instructor;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Amit Manjarly - Bio" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=MS+in+Data+Science+at+Arizona+State+University;Open-World+Continual+Learning+%26+Computer+Vision;Competitive+Programmer;YouTube+Content+Creator;Chess+Player+%26+Avid+Reader" alt="Amit Manjarly - Bio" /></a>
 
   <br/><br/>
 
