@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Graduate Student:** Pursuing M.S. in Data Science & Analytics Engineering at **Arizona State University**.
+- 🎓 **Graduate Student:** Graduated with M.S. in Data Science & Analytics Engineering from **Arizona State University**.
 - 🔬 **Research Focus:** Developing Open-World Continual Learning frameworks and object detection pipelines (YOLO, PyTorch) for autonomous agents using datasets like **nuScenes** & **Waymo**.
 - 💡 **Teaching & Mentorship:** Educating aspiring developers in C++ & Java for **Competitive Programming** and Data Structures & Algorithms.
 - ▶️ **Content Creation:** Sharing tutorials on algorithms, competitive programming, and ML concepts on my [YouTube Channel](https://www.youtube.com/@manjarly).
